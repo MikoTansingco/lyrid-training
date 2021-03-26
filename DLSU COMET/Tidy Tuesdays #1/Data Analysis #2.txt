@@ -1,0 +1,17 @@
+Suicide Rates Per Age Bracket
+
+generation (by age grp avg)
+1     510009
+2    1779887
+3    2279783
+4    1527038
+5     620194
+------------------------
+year
+2000    2065
+Name: suicides_no, dtype: int64
+
+year
+2001    32901
+Name: suicides_no, dtype: int64
+
